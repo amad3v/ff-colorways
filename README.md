@@ -1,5 +1,5 @@
 # firefox colorways themes
-
+## Info
 Colorways presents 6 colors and 3 modes:
   - Colours:
     - playmaker
@@ -13,6 +13,7 @@ Colorways presents 6 colors and 3 modes:
     - balanced
     - bold
 
+## Activation
 To activate a theme(s), go to `about:config` and edit the following keys:
 ```python
 browser.theme.colorway-closet: true
@@ -27,3 +28,14 @@ Restart firefox and the desired theme can be selected from **Add-ons and themes*
 ```python
 extensions.activeThemeID: activist-balanced-colorway@mozilla.org
 ```
+## Screenshots
+
+<img src="https://github.com/amad3v/ff-colorways/raw/main/themes01.png" width="699" />
+
+<img src="https://github.com/amad3v/ff-colorways/raw/main/themes02.png" width="699" />
+
+<img src="https://github.com/amad3v/ff-colorways/raw/main/themes03.png" width="699" />
+
+<img src="https://github.com/amad3v/ff-colorways/raw/main/themes04.png" width="699" />
+
+<img src="https://github.com/amad3v/ff-colorways/raw/main/themes05.png" width="699" />
