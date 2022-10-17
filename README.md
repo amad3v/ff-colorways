@@ -1,20 +1,24 @@
 # firefox colorways themes
+
 ## Info
+
 Colorways presents 6 colors and 3 modes:
-  - Colours:
+  + Colours:
     - playmaker
     - dreamer
     - activist
     - innovator
     - expressionist
     - visionary
-  - Modes:
+  + Modes:
     - soft
     - balanced
     - bold
 
 ## Activation
+
 To activate a theme(s), go to `about:config` and edit the following keys:
+
 ```python
 browser.theme.colorway-closet: true
 # this is the list of themes to activate, either one or many
@@ -28,14 +32,57 @@ Restart firefox and the desired theme can be selected from **Add-ons and themes*
 ```python
 extensions.activeThemeID: activist-balanced-colorway@mozilla.org
 ```
+
 ## Screenshots
 
-<img src="https://github.com/amad3v/ff-colorways/raw/main/themes01.png" width="699" />
+### Activist
 
-<img src="https://github.com/amad3v/ff-colorways/raw/main/themes02.png" width="699" />
+<img src="screenshots/activist.png" width="699" />
 
-<img src="https://github.com/amad3v/ff-colorways/raw/main/themes03.png" width="699" />
+### Dreamer
 
-<img src="https://github.com/amad3v/ff-colorways/raw/main/themes04.png" width="699" />
+<img src="screenshots/dreamer.png" width="699" />
 
-<img src="https://github.com/amad3v/ff-colorways/raw/main/themes05.png" width="699" />
+### Expressionist
+
+<img src="screenshots/expressionist.png" width="699" />
+
+### Innovator
+
+<img src="screenshots/innovator.png" width="699" />
+
+### Playmaker
+
+<img src="screenshots/playmaker.png" width="699" />
+
+### Visionary
+
+<img src="screenshots/visionary.png" width="699" />
+
+## Contributions
+
+The following themes are contributed by [@awarmwildfire](https://github.com/awarmwildfire)
+
+### Abstract
+
+<img src="screenshots/contrib/abstract.png" width="699" />
+
+### Cheers
+
+<img src="screenshots/contrib/cheers.png" width="699" />
+
+### Elemental
+
+<img src="screenshots/contrib/elemental.png" width="699" />
+
+### Foto
+
+<img src="screenshots/contrib/foto.png" width="699" />
+
+### Graffiti
+
+<img src="screenshots/contrib/graffiti.png" width="699" />
+
+### Lush
+
+<img src="screenshots/contrib/lush.png" width="699" />
