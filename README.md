@@ -62,6 +62,17 @@ extensions.activeThemeID: activist-balanced-colorway@mozilla.org
 ## Contributions
 
 The following themes are contributed by [@awarmwildfire](https://github.com/awarmwildfire)
+  + Colours:
+    - abstract
+    - cheers
+    - elemental
+    - foto
+    - graffiti
+    - lush
+  + Modes:
+    - soft
+    - balanced
+    - bold
 
 ### Abstract
 
